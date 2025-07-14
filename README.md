@@ -69,6 +69,8 @@ src/
 Para acceder a los endpoints protegidos:
 
 1. Enviar una solicitud POST a `/login` con el JSON:
+
+
    <img width="161" height="89" alt="image" src="https://github.com/user-attachments/assets/5154caef-10fe-43e7-9b9f-bcd552a0a2dc" />
 
 
@@ -121,7 +123,7 @@ spring.jpa.show-sql=true
 
 ---
 
-##🧠 Lecciones Aprendidas
+## 🧠 Lecciones Aprendidas
 Cómo proteger endpoints usando Spring Security y filtros JWT
 
 Cómo estructurar un proyecto modular y profesional
@@ -134,10 +136,10 @@ Configuración de filtros personalizados
 
 ---
 
-#👨‍💻 Autor
+# 👨‍💻 Autor
 Desarrollado por Oscar como parte del reto técnico de la especialización Backend en Java.
 
 --- 
-##📄 Licencia
+## 📄 Licencia
 Este proyecto está bajo la licencia MIT. Puedes usarlo y modificarlo libremente con fines educativos y profesionales.
 
