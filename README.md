@@ -69,16 +69,12 @@ src/
 Para acceder a los endpoints protegidos:
 
 1. Enviar una solicitud POST a `/login` con el JSON:
-
-```json
-
-  "login": "usuario",
-  "password": "123456"
+   <img width="161" height="89" alt="image" src="https://github.com/user-attachments/assets/5154caef-10fe-43e7-9b9f-bcd552a0a2dc" />
 
 
---> Recibirás un token JWT como respuesta.
+2. Recibirás un token JWT como respuesta.
 
- --> En solicitudes posteriores, incluir en los headers: Authorization: Bearer {token}
+3. En solicitudes posteriores, incluir en los headers: Authorization: Bearer {token}
 
 
 ---
